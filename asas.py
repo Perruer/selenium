@@ -1,3 +1,3 @@
-asaj
-lkjihughl/;k'l'
-LKjhugyftdrs
+from os import write
+
+write('hello')
